@@ -189,3 +189,5 @@ But to accomplish that you need to follow some rules or you can create yours by 
 2. To activate one hand task you can normally put you hands at a distance of 6 inch and move it forward and backward.
 ### A video link of a sample is given below. You can get help from there as well
 >https://drive.google.com/open?id=1gv6zlSVn4uyS-PSpJSUtHLujnpZMSOex
+
+Thank You....
